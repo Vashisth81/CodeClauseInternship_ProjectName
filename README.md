@@ -8,6 +8,11 @@ This project is a simple web application that implements a Stopwatch and Timer u
 
 **Demo Video:**
 
+
+
+https://github.com/atinder11/Stopwatch-and-Timer/assets/111070211/fc374ca3-2759-4512-a000-62a534fbcedf
+
+
 **Screenshot:**
 ### Stopwatch
 1.Landing Page:
